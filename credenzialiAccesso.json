@@ -1,0 +1,56 @@
+[
+  {
+    "username": "alunno3L",
+    "password": "alunno3L",
+    "classe": "Classe3L",
+    "istituto": "Rivoira"
+  },
+  {
+    "username": "alunno4L",
+    "password": "alunno4L",
+    "classe": "Classe4L",
+    "istituto": "Rivoira"
+  },
+  {
+    "username": "alunno5L",
+    "password": "alunno5L",
+    "classe": "Classe5L",
+    "istituto": "Rivoira"
+  },
+  {
+    "username": "alunno1X",
+    "password": "alunno1X",
+    "classe": "Classe1X",
+    "istituto": "Rivoira"
+  },
+  {
+    "username": "alunno2X",
+    "password": "alunno2X",
+    "classe": "Classe2X",
+    "istituto": "Rivoira"
+  },
+  {
+    "username": "alunno1A",
+    "password": "alunno1A",
+    "classe": "Classe1A",
+    "istituto": "Rivoira"
+  },
+  {
+    "username": "alunno2A",
+    "password": "alunno2A",
+    "classe": "Classe2A",
+    "istituto": "Rivoira"
+  },
+  {
+    "username": "alunno1F",
+    "password": "alunno1F",
+    "classe": "Classe1F",
+    "istituto": "Rivoira"
+  },
+  {
+    "username": "alunno2F",
+    "password": "alunno2F",
+    "classe": "Classe2F",
+    "istituto": "Rivoira"
+  }
+]
